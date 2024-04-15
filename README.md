@@ -1,4 +1,4 @@
-## Seja muito bem vindo(a) ao meu perfil do Github.
+## Seja muito bem vindo(a)!
 ### Saiba mais um pouco sobre mim:
 
 🎓 Formado em Ciência da Computação pela UNIC e com pós-graduação em Tecnologia em Software Livre pela UTFPR.
