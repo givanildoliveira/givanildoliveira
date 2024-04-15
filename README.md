@@ -1,5 +1,5 @@
 ## Seja muito bem vindo(a)!
-### Saiba mais um pouco sobre mim:
+### Saiba um pouco mais sobre mim:
 
 🎓 Formado em Ciência da Computação pela UNIC e com pós-graduação em Tecnologia em Software Livre pela UTFPR.
 
