@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/@givanildopxto-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/givanildopxto)
 
-### Saiba um pouco mais sobre mim:
+### Um pouco sobre mim:
 
 🎓 Formado em **Ciência da Computação** pela *Universidade de Cuiabá (UNIC)* e pós-graduado em **Tecnologia em Software Livre** pela *Universidade Tecnológica Federal do Paraná (UTFPR)*.
 
