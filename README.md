@@ -8,7 +8,7 @@
 
 💼 Atualmente, atuo como especialista em plataforma de *banking* e *seguros* na [Sami Sistemas](https://www.linkedin.com/company/sami-sistemas/), onde aplico minha paixão por tecnologia para criar soluções inovadoras.
 
-💡 Além disso, mantenho um projeto pessoal chamado **[O Currículo](https://ocurriculo.com.br)**, um site **gerador de currículo grátis**, para ajudar os profissionais na elaboração de seus currículos.
+💡 Além disso, mantenho um projeto pessoal chamado **[O Currículo](https://ocurriculo.com.br)**, um site **[gerador de currículo grátis](https://ocurriculo.com.br/gerador-de-curriculo)**, que possui algums **[modelos de currículos](https://ocurriculo.com.br/modelos-de-curriculos)** para ajudar os profissionais na elaboração de seus currículos.
 
 🚀 Apaixonado por desafios tecnológicos e comprometido em impulsionar a inovação no setor de serviços financeiros.
 
